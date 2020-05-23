@@ -44,8 +44,8 @@ These approaches offer the possibility of transferring posture-dependent task re
 	- ComDynamicManipulabilityTracking [3]
 		This code shows how a robot can match a desired center-of-mass dynamic manipulability ellipsoid 
 		as a main task (no desired position) using the manipulability tracking formulation with the
-		manipulability Jacobian (Mandel notation). The manipulability definition uses the Jacobian specified 
-		at the center of mass.
+		manipulability Jacobian (Mandel notation). The manipulability definition uses the Jacobian 
+		specified at the center of mass.
 
 	- ManipulabilityActuationContribution [3]
 		This code illustrates the effect of actuation contribution on the shape of the manipulability
