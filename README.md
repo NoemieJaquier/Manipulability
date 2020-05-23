@@ -83,11 +83,11 @@ These approaches offer the possibility of transferring posture-dependent task re
 		trajectories. The reproduction is carried out by a 5-DoF planar robot.
 
 ## References
-[1] Rozo, L., Jaquier, N., Calinon, S., and Caldwell, D. G. (2017). *Learning manipulability ellipsoids for task compatibility in robot manipulation.* In IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), pages 3183–3189. [pdf](https://leonelrozo.weebly.com/uploads/4/4/3/4/44342607/rozoiros17compressed.pdf)
+[1] Rozo, L., Jaquier, N., Calinon, S., and Caldwell, D. G. (2017). *Learning manipulability ellipsoids for task compatibility in robot manipulation.* In IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), pages 3183–3189. ([pdf](https://leonelrozo.weebly.com/uploads/4/4/3/4/44342607/rozoiros17compressed.pdf))
 
-[2] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2018). *Geometry-aware tracking of manipulability ellipsoids.* In Robotics: Science and Systems (R:SS). [pdf](http://njaquier.ch/files/RSS18_Jaquier_final.pdf)
+[2] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2018). *Geometry-aware tracking of manipulability ellipsoids.* In Robotics: Science and Systems (R:SS). ([pdf](http://njaquier.ch/files/RSS18_Jaquier_final.pdf))
 
-[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* Available as arXiv:1811.11050. [pdf](http://njaquier.ch/files/ManipTransfer_arXiv.pdf)
+[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* Available as arXiv:1811.11050. ([pdf](http://njaquier.ch/files/ManipTransfer_arXiv.pdf))
 
 ### Authors
 Noémie Jaquier and Leonel Rozo
