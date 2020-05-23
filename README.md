@@ -96,29 +96,29 @@ http://njaquier.ch/
 
 http://leonelrozo.weebly.com/
 
-```
 This source code is given for free! In exchange, we would be grateful if you cite the corresponding reference in any academic publication that uses this code or part of it:
 
-[1] 
-@INPROCEEDINGS{Rozo17IROS:ManTransfer,
+```
+
+[1] @INPROCEEDINGS{Rozo17IROS:ManTransfer,
 	AUTHOR 		= {L. Rozo and N. Jaquier and S. Calinon and D. G. Caldwell},
 	TITLE 		= {Learning Manipulability Ellipsoids for Task Compatibility in Robot Manipulation},
 	BOOKTITLE	= IROS,
 	YEAR 		= {2017},
 	PAGES 		= {3183--3189}
-}
+	}
 
-[2] 
-@INPROCEEDINGS{Jaquier18,
+ 
+[2] @INPROCEEDINGS{Jaquier18,
 	AUTHOR		= {Jaquier, N and Rozo, L. and Caldwell, D. G. and Calinon, S.}, 
 	TITLE		= {Geometry-aware Tracking of Manipulability Ellipsoids},
 	BOOKTITLE	= R:SS,
 	YEAR		= {2018},
 	PAGES		= {}
-}
+	}
 
-[3] 
-@ARTICLE{Jaquier20:IJRRManipulability,
+ 
+[3] @ARTICLE{Jaquier20:IJRRManipulability,
 	AUTHOR 		= {Jaquier, N and Rozo, L. and Caldwell, D. G. and Calinon, S.},
 	TITLE   	= {Geometry-aware Manipulability Learning, Tracking and Transfer},
 	JOURNAL 	= {arXiv preprint 1811.11050},
@@ -126,6 +126,6 @@ This source code is given for free! In exchange, we would be grateful if you cit
 	VOLUME  	= {},
 	NUMBER  	= {},
 	PAGES   	= {}
-}
+	}
 ```
 
