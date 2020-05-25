@@ -4,6 +4,8 @@ This repository shows simple examples for manipulability learning, tracking and 
 These approaches offer the possibility of transferring posture-dependent task requirements such as preferred directions for motion and force exertion in operational space, which are encapsulated in manipulability ellipsoids. The proposed formulations exploit tensor-based representations and take into account that manipulability ellipsoids lie on the manifold of symmetric positive definite matrices.
 
 ## Examples description
+To run the examples, first download the [robotic toolbox](https://github.com/petercorke/robotics-toolbox-matlab).
+
 ### Learning
 	- ManipulabilityLearning ([1], [3])
 		This code shows how a robot builds models to follow a desired Cartesian trajectory while matching 
