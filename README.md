@@ -89,7 +89,7 @@ To run the examples, first download the [robotic toolbox](https://github.com/pet
 
 [2] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2018). *Geometry-aware tracking of manipulability ellipsoids.* In Robotics: Science and Systems (R:SS). ([pdf](http://njaquier.ch/files/RSS18_Jaquier_final.pdf))
 
-[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* Available as arXiv:1811.11050. ([pdf](http://njaquier.ch/files/ManipTransfer_arXiv.pdf))
+[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* Available as arXiv:1811.11050. ([pdf](http://njaquier.ch/files/ManipTransfer.pdf))
 
 ### Authors
 Noémie Jaquier and Leonel Rozo
@@ -105,7 +105,7 @@ This source code is given for free! In exchange, we would be grateful if you cit
 [1] @INPROCEEDINGS{Rozo17IROS:ManTransfer,
 	AUTHOR 		= {L. Rozo and N. Jaquier and S. Calinon and D. G. Caldwell},
 	TITLE 		= {Learning Manipulability Ellipsoids for Task Compatibility in Robot Manipulation},
-	BOOKTITLE	= IROS,
+	BOOKTITLE	= {{IEEE/RSJ} Intl. Conf. on Intelligent Robots and Systems ({IROS})},
 	YEAR 		= {2017},
 	PAGES 		= {3183--3189}
 	}
@@ -114,7 +114,7 @@ This source code is given for free! In exchange, we would be grateful if you cit
 [2] @INPROCEEDINGS{Jaquier18,
 	AUTHOR		= {Jaquier, N and Rozo, L. and Caldwell, D. G. and Calinon, S.}, 
 	TITLE		= {Geometry-aware Tracking of Manipulability Ellipsoids},
-	BOOKTITLE	= R:SS,
+	BOOKTITLE	= {Robotics: Science and Systems ({R:SS})},
 	YEAR		= {2018},
 	PAGES		= {}
 	}
@@ -123,7 +123,7 @@ This source code is given for free! In exchange, we would be grateful if you cit
 [3] @ARTICLE{Jaquier20:IJRRManipulability,
 	AUTHOR 		= {Jaquier, N and Rozo, L. and Caldwell, D. G. and Calinon, S.},
 	TITLE   	= {Geometry-aware Manipulability Learning, Tracking and Transfer},
-	JOURNAL 	= {arXiv preprint 1811.11050},
+	JOURNAL 	= {Intl. Journal of Robotics Research"},
 	YEAR    	= {2020},
 	VOLUME  	= {},
 	NUMBER  	= {},
