@@ -89,7 +89,9 @@ To run the examples, first download the [robotic toolbox](https://github.com/pet
 
 [2] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2018). *Geometry-aware tracking of manipulability ellipsoids.* In Robotics: Science and Systems (R:SS). ([pdf](http://njaquier.ch/files/RSS18_Jaquier_final.pdf))
 
-[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* In International Journal of Robotics Research (IJRR) 20:2-3, pp.624-650. ([pdf](http://njaquier.ch/files/ManipTransfer.pdf))
+[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* In International Journal of Robotics Research (IJRR) 20:2-3, pp.624-650. ([pdf](https://journals.sagepub.com/doi/full/10.1177/0278364920946815))
+
+You can find additional videos related to the above publications [here](https://sites.google.com/view/manipulability/home)!
 
 ### Authors
 Noémie Jaquier and Leonel Rozo
@@ -124,10 +126,10 @@ This source code is given for free! In exchange, we would be grateful if you cit
 	AUTHOR 		= {Jaquier, N and Rozo, L. and Caldwell, D. G. and Calinon, S.},
 	TITLE   	= {Geometry-aware Manipulability Learning, Tracking and Transfer},
 	JOURNAL 	= {Intl. Journal of Robotics Research"},
-	YEAR    	= {2020},
-	VOLUME  	= {},
-	NUMBER  	= {},
-	PAGES   	= {}
+	YEAR    	= {2021},
+	VOLUME  	= {20},
+	NUMBER  	= {2-3},
+	PAGES   	= {624-650}
 	}
 ```
 
