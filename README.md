@@ -89,7 +89,7 @@ To run the examples, first download the [robotic toolbox](https://github.com/pet
 
 [2] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2018). *Geometry-aware tracking of manipulability ellipsoids.* In Robotics: Science and Systems (R:SS). ([pdf](http://njaquier.ch/files/RSS18_Jaquier_final.pdf))
 
-[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* Available as arXiv:1811.11050. ([pdf](http://njaquier.ch/files/ManipTransfer.pdf))
+[3] Jaquier, N., Rozo, L., Caldwell, D. G., and Calinon, S. (2020). *Geometry-aware manipulability learning, tracking and transfer.* In International Journal of Robotics Research (IJRR) 20:2-3, pp.624-650. ([pdf](http://njaquier.ch/files/ManipTransfer.pdf))
 
 ### Authors
 Noémie Jaquier and Leonel Rozo
